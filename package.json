@@ -1,0 +1,25 @@
+{
+  "name": "learnjavascript",
+  "version": "1.0.0",
+  "description": "Practica de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dal-or/PracticaJavaScript.git"
+  },
+  "author": "Dal-Or",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dal-or/PracticaJavaScript/issues"
+  },
+  "homepage": "https://github.com/dal-or/PracticaJavaScript#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
